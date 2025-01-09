@@ -84,7 +84,7 @@ pyenv uninstall global
 
 ``` bash
 pyenv activate global
-pyenv deactivate gloval_python
+pyenv deactivate globl
 ````
 
 - Some packages to install in the virtual environment
